@@ -20,4 +20,4 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Contact
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [EditorBootloader](https://github.com/keithlau2015/EditorBootloader)
