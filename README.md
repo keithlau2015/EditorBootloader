@@ -1,5 +1,5 @@
 ## About The EditorBootloader
-If you working on multiple scene and got a initialize scene(basically im lazy as fuxk LOL), this simple tool work for you
+If you working on multiple scene and got a initialize scene(basically im lazy as fuxk LOL), this simple tool may suit you
 
 ## Getting Started
 1. BootloaderEditor: select your initialize scene, that scene will auto replace your first scene at build setting scenes
