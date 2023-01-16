@@ -1,0 +1,11 @@
+{
+  "name": "com.nullpointinteractive.editorbootloader",
+  "version": "1.1.0",
+  "documentationUrl": "https://github.com/keithlau2015/EditorBootloader/blob/main/README.md",
+  "author": {
+    "name": "nullpointinteractive",
+    "url": "https://github.com/keithlau2015"
+  },
+  "displayName": "Editor Bootloader",
+  "description": "if enable this tools, will load the initialize scene everytime you enter play mode"
+}
