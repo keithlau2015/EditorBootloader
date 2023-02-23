@@ -2,6 +2,8 @@
 If you working on multiple scene and got a initialize scene(basically im lazy as fuxk LOL), this simple tool may suit you
 
 ## Getting Started
+### Install via git URL
+Requires a version of unity that supports path query parameter for git packages (Unity >= 2019.3.4f1, Unity >= 2020.1a21). You can add `https://github.com/keithlau2015/EditorBootloader.git` to Package Manager
 1. BootloaderEditor: select your initialize scene, that scene will auto replace your first scene at build setting scenes
 2. Enable Auto Load Bootloader: enable EditorBootloader, whenever this tool is enable, when you enter playmode at unity editor, will load your initialize scene first
 3. Disable Auto Load Bootloader: disable EditorBootloader, whenever this tool is disable, when you enter playmode at unity editor, will load the active scene
